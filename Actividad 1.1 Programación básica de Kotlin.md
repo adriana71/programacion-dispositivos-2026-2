@@ -2,22 +2,22 @@
 
 ## 1. Datos generales
 
-**Modalidad:** parejas
-**Duración estimada:** 3 horas
-**Herramientas:** Kotlin, IntelliJ IDEA, Git y GitHub
-**Tipo de programa:** aplicación de consola
-**Restricción:** no crear clases, objetos personalizados ni interfaces.
+**Modalidad:** parejas  
+**Duración estimada:** 3 horas  
+**Herramientas:** Kotlin, IntelliJ IDEA, Git y GitHub  
+**Tipo de programa:** aplicación de consola  
+**Restricción:** no crear clases, objetos personalizados ni interfaces.  
 
 Pueden emplear:
 
-* Variables y constantes.
-* Funciones.
-* Condicionales.
-* `when`.
-* Ciclos.
-* Arreglos o listas.
-* Entrada y salida de datos.
-* Funciones estándar de Kotlin.
+* Variables y constantes.  
+* Funciones.  
+* Condicionales.  
+* `when`.  
+* Ciclos.  
+* Arreglos o listas.  
+* Entrada y salida de datos.  
+* Funciones estándar de Kotlin.  
 
 ## 2. Propósito
 
