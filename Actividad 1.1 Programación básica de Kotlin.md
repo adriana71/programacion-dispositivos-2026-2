@@ -1,4 +1,4 @@
-# Práctica: gestor de gastos de un estudiante
+# Práctica: gestor de gastos de un estudiante 🤑
 
 ## 1. Datos generales
 
